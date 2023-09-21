@@ -1,3 +1,8 @@
+# Notice!
+<p>This is a fork of Knew's Uncompressed Discord Images Fix, for Enmity (https://github.com/enmity-mod/enmity) for IOS Devices, this is a rough port created by me, inexperienced so don't really expect much.</p>
+
+The orignal readme file is as follows, and will be untouched.
+----------------------------------------------------
 # Uncompressed Discord Images Fix:
 <p>Discord's solution to previewing images is awful so by changing 'media.discordapp.net' 
 links to 'cdn.discordapp.com' links, we will no longer have blurry images (especially with JPEG, WebP and other lossy formats).
